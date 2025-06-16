@@ -4,7 +4,7 @@
 > **Corrective-RAG (CRAG)** is a strategy for RAG that incorporates self-reflection / self-grading on retrieved documents.
 ---
 
-# Project Structure (main components):
+# Project Structure (main components): 
 
 - **agent_graph:** Contains the core logic for the CRAG agent graph.  
 
